@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" width="100%">
+  <img src="./banner.png" width="100%" style="opacity: 0.5;">>
 </p>
 
 <h2 data-importer="text" align="center">𝓦𝓔𝓛𝓒𝓞𝓜𝓔 𝓣𝓞 𝓜𝓨 𝓟𝓡𝓞𝓕𝓘𝓛𝓔!</h2>
