@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./banner.png" width="55%" style="opacity: 50%;">>
+  <img src="./banner-50.png" width="60%">
 </p>
-
 <h2 data-importer="text" align="center">𝓦𝓔𝓛𝓒𝓞𝓜𝓔 𝓣𝓞 𝓜𝓨 𝓟𝓡𝓞𝓕𝓘𝓛𝓔!</h2>
 
 ###
